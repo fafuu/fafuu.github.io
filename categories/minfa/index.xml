@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minfa on 法考学习笔记</title>
+    <title>Minfa on 法考备考笔记</title>
     <link>https://fafuu.github.io/categories/minfa/</link>
-    <description>Recent content in Minfa on 法考学习笔记</description>
+    <description>Recent content in Minfa on 法考备考笔记</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 26 May 2025 00:17:51 +0800</lastBuildDate>
     <atom:link href="https://fafuu.github.io/categories/minfa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>yangfanqihang</title>
-      <link>https://fafuu.github.io/posts/minfa/herui/20250526-0017-yangfanqihang/</link>
+      <link>https://fafuu.github.io/2025/05/26/yangfanqihang/</link>
       <pubDate>Mon, 26 May 2025 00:17:51 +0800</pubDate>
-      <guid>https://fafuu.github.io/posts/minfa/herui/20250526-0017-yangfanqihang/</guid>
+      <guid>https://fafuu.github.io/2025/05/26/yangfanqihang/</guid>
       <description>&lt;h1 id=&#34;yangfanqihang&#34;&gt;&#xA;  yangfanqihang&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#yangfanqihang&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;今天周末学习一下午${subject_name}，被${subject_name}的精妙绝伦感动到想哭。${subject_name}您让我印象深刻。&lt;/p&gt;</description>
     </item>
   </channel>
